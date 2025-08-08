@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import { createI18n } from 'vue-i18n'
-//import en from './locales/en.json'
+import en from './locales/en.json'
 import es from './locales/es.json'
 import router from './routers/router'
 import '../src/assets/Index.css'
@@ -10,9 +10,9 @@ import './style.css'
 const i18n = createI18n({
   legacy: false, // para Composition API
   locale: 'es',
-  fallbackLocale: 'es',
+  fallbackLocale: 'en',
   messages: {
-   
+    en,
     es
   }
 })
