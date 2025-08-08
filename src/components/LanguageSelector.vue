@@ -3,7 +3,7 @@
     <label for="lang-select" class="text-sm">Idioma:</label>
     <select
       id="lang-select"
-      v-model="$i18n.locale"
+      v-model="locale"
       class="border rounded px-2 py-1 text-sm"
     >
       <option value="es">Español</option>
@@ -15,5 +15,5 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
 
-useI18n()
+const { locale } = useI18n()
 </script>
