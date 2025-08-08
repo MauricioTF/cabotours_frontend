@@ -181,7 +181,7 @@
   "name": "Name",
   "text_name": "Your name",
   "email": "Email",
-  "text_email": "example@mail.com",
+  "text_email": "examplemail.com",
   "message": "Message",
   "text_message": "Write your message here...",
   "send": "Send message",

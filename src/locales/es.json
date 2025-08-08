@@ -180,7 +180,7 @@
   "name": "Nombre",
   "text_name": "Tu nombre",
   "email": "Correo electrónico",
-  "text_email": "ejemplo@correo.com",
+  "text_email": "tucorreo.com",
   "message": "Mensaje",
   "text_message": "Escribí tu mensaje aquí...",
   "send": "Enviar mensaje",
