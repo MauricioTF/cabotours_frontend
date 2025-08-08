@@ -1,0 +1,230 @@
+{
+  "menu": {
+    "home": "Home",
+    "activities": "What to do",
+    "gallery": "Gallery",
+    "contact": "Contact Us"
+  },
+
+  "home": {
+    "title": "Cabo Tours Sport Fishing",
+    "subtitle": "Costa Rica, paradise of adventure and sport fishing",
+    "subtitle2": "Welcome to a world of adventure!",
+    "country": "Costa Rica",
+    "cta": "See activities",
+    "cta_label": "View available activities",
+    "cta_title": "View available activities"
+  },
+
+  "gallery_home": {
+    "title": "Activities",
+    "button_gallery": "View full gallery",
+    "card_offshore": "Offshore fishing",
+    "card_snorkel": "Snorkeling tour",
+    "card_whale": "Whale watching",
+    "card_island": "Tortuga island",
+    "card_inshore": "Inshore fishing"
+  },
+
+  "information1": {
+    "title": "Our Story",
+    "description1": "It all started with a passion for the sea and a desire to share the beauty of our coast with the world.",
+    "description2": "What began as simple fishing trips among friends soon turned into a unique tourism experience. Over time, we grew, improved our services, and met amazing people from around the globe. Today, we continue doing what we love: creating unforgettable memories on board, with every tour and every smile."
+  },
+
+  "information2": {
+    "title": "About Us",
+    "description1": "At Cabo Tours Malpaís Sport Fishing, we are proud to preserve the tradition of artisanal fishing in the stunning region of Malpaís. Since 2006, we’ve been dedicated to offering authentic sea adventures to those who love nature and exploration.",
+    "description2": "Our passionate and experienced team will guide you with warmth, sharing their knowledge, techniques, and deep respect for the ocean. We promote sustainable fishing practices, care for the marine ecosystem, and actively support the growth of our local community. Join us for unforgettable moments and connect with the sea like never before. Thank you for being part of our journey."
+  },
+
+  "information3": {
+    "title": "Why choose us?",
+    "description1": "We have years of experience offering fishing trips, snorkel adventures, and boat tours.",
+    "description2": "With us, you'll enjoy the ocean like never before — with safety, comfort, and adventure."
+  },
+
+  "information4": {
+    "title": "3 Tips for a Successful Fishing Trip in Malpaís",
+    "description1": "1. Choose the right time: The best hours for fishing are early morning and late afternoon, when fish are more active. These times in Malpaís also offer peaceful ocean views and stunning sunrises or sunsets.",
+    "description2": "2. Use the proper gear: Depending on the fishing style (bottom fishing, trolling, etc.), you’ll need the right hooks, lures, and lines. Our team will help you choose the best setup for the day’s conditions and target species.",
+    "description3": "3. Trust local knowledge:Our experienced guides know the most productive fishing spots and fish behavior. Following their advice can turn a good day into an unforgettable adventure.",
+    "message": "Ready to cast your line? Malpaís is waiting with an authentic fishing experience.",
+    "text_button": "Book Now"
+  },
+
+  "activities": {
+    "title": "What to do",
+    "inshore": "Offshore Fishing",
+    "offshore": "Inshore Fishing",
+    "tours": "Boat Tours",
+    "offshoreDescription": "Explore the ocean with our offshore fishing trips.",
+    "inshoreDescription": "Fish near the shore – perfect for families and beginners.",
+    "toursDescription": "Enjoy scenic boat rides along the Costa Rican coastline."
+  },
+
+  "gallery": {
+    "title": "Gallery",
+    "inshore": "Inshore Fishing",
+    "offshore": "Offshore Fishing",
+    "snorkeling": "Snorkeling Tour",
+    "whales": "Whale Watching",
+    "tortuga": "Tortuga Island",
+    "inshore1": "Fighting a great catch near the coast. Our guest enjoyed an intense battle with an impressive fish.",
+    "inshore2": "A memorable cubera snapper. The smile says it all: successful fishing and an unforgettable trophy under the Pacific sun.",
+    "inshore3": "Wahoo! Adventure and guaranteed excitement. An incredible day where the ocean rewarded these adventurers with a top catch.",
+    "inshore4": "Hooking a mahi mahi at the perfect moment. This golden leap was captured just seconds before boarding. Pure fishing adrenaline!",
+    "inshore5": "Marlin in the hands of champions. The thrill peaks when you land a marlin. Unforgettable moments!",
+    "inshore6": "Giant tuna, an epic fishing day. A smile as big as the tuna itself: total success on an unforgettable day at sea.",
+    "offshore1": "Roosterfish successfully caught! An intense battle in warm waters, ending with this impressive catch in our hands.",
+    "offshore2": "Double victory on the coast. Friends, sunshine, and two massive fish: a beach fishing day to remember.",
+    "offshore3": "Smiles and roosters in the Pacific. Pure adrenaline in every tug. A roosterfish to remember!",
+    "offshore4": "A championship snapper. With the sea in the background, this cubera snapper stole the show and the thrill of the day.",
+    "offshore5": "Fishing fun among friends. Guaranteed fun with great company and tasty catches.",
+    "offshore6": "Impressive marlin offshore. A giant of the ocean in our hands. An experience you must live!",
+    "snorkeling1": "Swim among tropical fish in crystal-clear waters. Discover the underwater world face to face with striped fish.",
+    "snorkeling2": "Couples' snorkeling adventure. Magical moments under the sun and sea, perfect to share together.",
+    "snorkeling3": "Free exploration beneath the deep blue. Swim together in total freedom, surrounded by marine life.",
+    "snorkeling4": "Journey through coral and colorful fish. An underwater paradise awaits with vibrant and lively scenery.",
+    "snorkeling5": "Pufferfish among pristine coral. Watch it up close in its natural habitat as you explore healthy reefs.",
+    "snorkeling6": "Schools of fish dancing around you. Dive into an unforgettable snorkeling experience among hundreds of fish.",
+    "whales1": "Majestic whale rising through the waves. An unforgettable encounter with nature at its purest.",
+    "whales2": "Spectacular humpback whale breach. Feel the thrill of witnessing these ocean giants in full action.",
+    "whales3": "Whale tail in a graceful goodbye. A magical moment that leaves everyone breathless.",
+    "whales4": "The art of diving with grace. Whales gift us unique moments on every sighting.",
+    "whales5": "A natural show before your eyes. Live the magic of the Pacific with this impressive leap.",
+    "whales6": "Total silence... until the whale appears. The thrill of watching its back glide through the sea is indescribable.",
+    "tortuga1": "Tortuga Island: paradise before your eyes. White sand, palm trees, and anchored yachts. Your dream day starts here!",
+    "tortuga2": "A hidden gem between cliffs. This turquoise bay invites you to relax and reconnect with nature.",
+    "tortuga3": "Peaceful beach with postcard views. Enjoy a seaside walk in a dreamlike setting.",
+    "tortuga4": "A virgin spot surrounded by palm trees. The raw beauty of Tortuga Island, perfect for those seeking peace and nature.",
+    "tortuga5": "Stone arch: natural wonder at sea. A unique formation that adds magic to your island adventure.",
+    "tortuga6": "Crystal-clear waters, endless palm trees. The perfect contrast between emerald sea and tropical jungle. Come discover it!"
+  },
+
+  "inshore": { 
+    "title": "Inshore fishing",
+    "text": "Enjoy inshore fishing in calm waters, ideal for those seeking a relaxed yet exciting experience, catching species like jacks, snappers, and groupers close to the coast.",
+    "subtitle": "What’s included in inshore fishing?",
+  "description1": "Professional fishing gear.",
+  "description2": "Expert crew and guide.",
+  "description4": "Safe and family-friendly environment.",
+  "subtitle2": "Our Plans",
+  "plan1": "Half day",
+  "plan1_description": "Rate for 1 to 6 people.",
+  "plan2": "Trolling",
+  "plan2_description": "Dive into trolling fishing with us! Experience the thrill of casting your line from our moving boat and catching fish at high speed. Our expert team will guide you in this specialized technique. Join us and enjoy the action and adrenaline of trolling fishing.",
+  "plan3": "Jigging",
+  "plan3_description": "Discover the fascinating world of jigging with us! Immerse yourself in an exciting form of fishing that will challenge you and keep you constantly engaged. Join us and experience the adrenaline of jigging as you face powerful species in deep waters.",
+  "plan4": "Casting",
+  "plan4_description": "Come experience the thrill of fishing with us! Feel the adrenaline of casting your lure with precision and catching fish in nearby waters. Our expert team will teach you the best techniques and guide you in choosing the right lure for each species. Get ready for an unforgettable adventure full of action and exciting catches!",
+  "button_whatsapp": "Book now",
+  "whatsappLinkPlan1": "Half Day - Inshore Fishing (1 to 6 people)",
+  "whatsappLinkPlan2": "Inshore Fishing - Trolling Plan",
+  "whatsappLinkPlan3": "Inshore Fishing - Jigging Plan",
+  "whatsappLinkPlan4": "Inshore Fishing - Casting Plan",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=50688872280&text=Hello,%20I%20would%20like%20to%20book%20the%20"
+
+  },
+
+  "offshore": {
+  "title": "Offshore Fishing",
+  "text": "Experience the thrill of offshore fishing in Malpaís, surrounded by spectacular landscapes and the opportunity to catch impressive species like sailfish, dorado, and tuna.",
+  "subtitle": "What’s included in offshore fishing?",
+  "description1": "Professional fishing gear.",
+  "description2": "Captain and crew with local expertise.",
+  "description4": "Personalized guide and full assistance.",
+  "subtitle2": "Our Plan",
+  "plan1": "offshore fishing",
+  "plan1_description": "Full day (8 hours) in deep waters.",
+  "button_whatsapp": "Book now",
+  "whatsappLinkPlan1": "Offshore Fishing (8 hours)",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=50688872280&text=Hello,%20I%20would%20like%20to%20book%20the%20"
+
+
+},
+
+"boats": {
+  "title": "Boat Tours",
+  "text": "Experience unforgettable adventures exploring the ocean with our boat tours. From whale watching to snorkeling, Tortuga Island, and private trips, we have unique experiences for all tastes.",
+  "subtitle": "What’s included in the boat tour?",
+  "description1": "Comfortable and safe boats.",
+  "description2": "Expert guides and professional crew.",
+  "description4": "Personalized and family-friendly experiences.",
+  "subtitle2": "Our Plans",
+  "plan1": "Whale Watching",
+  "plan1_description": "Discover the majestic world of whales during the migratory season!",
+  "detail1Plan1": "1-6 People: $280",
+  "detail2Plan1": "6-8 People: $350",
+  "whatsappLinkPlan1": "Boat Tour - Whale Watching (1-8 people)",
+  "plan2": "Snorkel",
+  "plan2_description": "Explore the fascinating underwater world and discover marine life in its natural habitat.",
+  "detail1Plan2": "3h: $280",
+  "detail2Plan2": "4h: $350",
+  "whatsappLinkPlan2": "Boat Tour - Snorkel (3h or 4h)",
+  "plan3": "Tortuga Island",
+  "plan3_description": "Experience a full day in this Pacific gem, with white sandy beaches and crystal clear waters.",
+  "detail1Plan3": "Full day",
+  "detail2Plan3": "$900",
+  "whatsappLinkPlan3": "Boat Tour - Tortuga Island (Full day)",
+  "plan4": "Private Trips (Sámara and Jacó)",
+  "plan4_description": "Enjoy exclusive experiences in paradise beaches, lush nature, and unique adventures.",
+  "whatsappLinkPlan4": "Boat Tour - Private Trips (Sámara and Jacó)",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=50688872280&text=Hello,%20I%20would%20like%20to%20book%20the%20",
+  "button_whatsapp": "Book now"
+
+},
+
+"contact": {
+  "title": "Contact Us",
+  "text": "Do you have any questions or want to book? Fill out the form and we will respond as soon as possible.",
+  "name": "Name",
+  "text_name": "Your name",
+  "email": "Email",
+  "text_email": "example@mail.com",
+  "message": "Message",
+  "text_message": "Write your message here...",
+  "send": "Send message",
+  "sending": "Sending...",
+  "message_error": "All fields are required.",
+  "email_error": "The email address is not valid.",
+  "send_error": "Error sending message. Please try again.",
+  "send_success": "Form sent successfully!",
+  "server_error": "Server error. Please try again later."
+
+},
+
+"notfound": {
+  "title": "Oops! Page not found",
+  "description": "The page you are looking for doesn't exist or has been moved. Please check the link or return to the homepage.",
+  "button_home": "Back to Home",
+  "button_contact": "Contact Us"
+},
+
+  "footer": {
+    "rights_reserved": "All rights reserved.",
+    "privacy_policy": "Privacy Policy",
+    "developed_by": "Developed by",
+    "contact": "Contact Us",
+    "info": "Information",
+    "follow_us": "Follow Us on Social Media",
+    "schedule": "Business hours: Monday to Friday from 8:00 a.m. to 5:00 p.m."
+
+  },
+
+"seo": {
+  "home_title": "Cabo Tours - Fishing and Adventures - Malpaís, Costa Rica",
+  "home_desc": "Enjoy sport fishing, boat tours, and snorkeling in Malpaís, Costa Rica.",
+  "gallery_title": "Cabo Tours Gallery",
+  "gallery_desc": "See real photos from our fishing adventures and tours.",
+  "contact_title": "Contact Us - Cabo Tours",
+  "contact_desc": "Book your next fishing or boat tour adventure with Cabo Tours.",
+  "offshore_title": "Offshore Fishing in Cabo Tours",
+  "offshore_desc": "Experience deep-sea fishing with Cabo Tours.",
+  "inshore_title": "Inshore Fishing in Cabo Tours",
+  "inshore_desc": "Explore inshore fishing in Malpaís with our professional team.",
+  "tours_title": "Boat Tours - Whale Watching, Snorkeling, and Tortuga Island",
+  "tours_desc": "Discover whale watching, Tortuga Island, and snorkeling in Costa Rica."
+}
+}
+ 

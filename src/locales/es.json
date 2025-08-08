@@ -1,0 +1,228 @@
+{
+
+  "menu": {
+    "home": "Inicio",
+    "activities": "Qué hacer",
+    "gallery": "Galería",
+    "contact": "Contáctenos"
+  },
+  
+  "home": {
+     "title": "Cabo Tours Pesca deportiva",
+    "subtitle": "Costa Rica, paraíso de aventura y pesca deportiva",
+    "subtitle2": "¡Bienvenido a un mundo de aventuras!",
+    "country": "Costa Rica",
+    "cta": "Ver actividades",
+    "cta_label": "Ver actividades disponibles",
+    "cta_title": "Ver actividades disponibles"
+  },
+
+   "gallery_home": {
+    "title": "Actividades",
+    "button_gallery": "Ver galería",
+    "card_offshore": "Pesca de Altamar",
+    "card_snorkel": "Tour de Snorkel",
+    "card_whale": "Avistamiento de Ballenas",
+    "card_island": "Isla Tortuga",
+    "card_inshore": "Pesca costera"
+  },
+
+  "information1": {
+  "title": "Nuestra historia",
+  "description1": "Todo comenzó con una pasión por el mar y el deseo de compartir la belleza de nuestra costa con el mundo.",
+  "description2": "Lo que inició como simples salidas de pesca entre amigos, pronto se transformó en una experiencia turística única. Con el tiempo, fuimos creciendo, mejorando nuestros servicios y conociendo personas increíbles de distintas partes del mundo. Hoy, seguimos haciendo lo que amamos: crear recuerdos inolvidables a bordo, en cada tour y cada sonrisa."
+},
+
+ "information2": {
+  "title": "Sobre Nosotros",
+  "description1": "En Cabo Tours Malpaís Sport Fishing nos enorgullece mantener viva la tradición de la pesca artesanal en la hermosa zona de Malpaís. Desde 2006, emprendimos este proyecto con la visión de brindar experiencias auténticas en el mar a quienes aman la naturaleza y la aventura.",
+  "description2": "Nuestro equipo, apasionado y experimentado, te guiará con calidez, compartiendo sus conocimientos, técnicas y respeto por el océano. Promovemos la pesca sostenible, cuidamos el ecosistema marino y apoyamos activamente el desarrollo de nuestra comunidad local. Te invitamos a vivir momentos únicos y a conectar con el mar como nunca antes. Gracias por formar parte de esta travesía."
+},
+
+"information3":{
+  "title": "¿Por qué elegirnos?",
+  "description1": "Contamos con años de experiencia ofreciendo tours de pesca, snorkel y paseos en barco.",
+  "description2": "Con nosotros disfrutarás del océano como nunca antes, con seguridad, comodidad y aventura."
+},
+
+"information4": { 
+  "title": "3 Tips para una Pesca Exitosa en Malpaís",
+  "description1": "1. Elegí el horario adecuado: Las mejores horas para pescar son al amanecer y al atardecer, cuando los peces están más activos. En Malpaís, estos momentos también ofrecen paisajes espectaculares y tranquilidad en el mar.",
+  "description2": "2. Usá el equipo correcto: Dependiendo del tipo de pesca (de fondo, trolling, etc.), necesitás anzuelos, señuelos y líneas adecuadas. Nuestro equipo te orientará según las especies del día y las condiciones del océano.",
+  "description3": "3. Confiá en la experiencia local: Nuestros guías conocen las zonas más productivas y los comportamientos de cada especie. Seguir sus consejos puede marcar la diferencia entre un buen día y una jornada inolvidable.",
+  "message": "¿Listo para lanzar tu línea? Malpaís te espera con una experiencia auténtica de pesca.",
+  "text_button": "Reservar"
+},
+
+"activities": {
+    "title": "Qué hacer",
+    "offshore": "Pesca de Altamar",
+    "inshore": "Pesca Costera",
+    "tours": "Tours en Barco",
+    "offshoreDescription": "Explora el océano en nuestras excursiones de pesca de altamar.",
+    "inshoreDescription": "Pesca cerca de la costa, ideal para principiantes y familias.",
+    "toursDescription": "Disfruta de paseos escénicos en barco por las aguas costarricenses."
+},
+
+"gallery": {
+    "title": "Galería",
+    "inshore": "Pesca Costera",
+    "offshore": "Pesca en Altamar",
+    "snorkeling": "Tour de Snorkel",
+    "whales": "Avistamiento de Ballenas",
+    "tortuga": "Isla Tortuga",
+    "inshore1": "Peleando con una gran captura frente a la costa. Nuestra clienta disfrutó una intensa pelea con una gran captura de un pez imponente.",
+    "inshore2": "Un pargo colorado para recordar. La sonrisa lo dice todo: pesca exitosa y un trofeo inolvidable bajo el sol del Pacífico.",
+    "inshore3": "¡Wahoo! Aventura y emoción garantizada. Una jornada increíble donde el mar premió a estos aventureros con un pez de primera.",
+    "inshore4": "Capturando un dorado justo en el momento perfecto. Este salto dorado quedó inmortalizado segundos antes de subir a bordo. ¡Pesca pura adrenalina!",
+    "inshore5": "Marlin en manos de campeones. La emoción se vive al máximo cuando lográs subir un marlin. ¡Momentos que no se olvidan!",
+    "inshore6": "Atún gigante, una pesca inolvidable. Una sonrisa tan grande como el atún: éxito rotundo en un día de pesca épico.",
+    "offshore1": "Pez gallo capturado con éxito! Una lucha intensa en aguas cálidas, culminando con esta impresionante gallo en nuestras manos.",
+    "offshore2": "Doble victoria en la costa. Amigos, sol y dos peces gigantes: pesca en playa que jamás olvidarán.",
+    "offshore3": "Sonrisas y gallos en el Pacífico. Pesca con adrenalina pura en cada jalón. Pez gallo para el recuerdo!",
+    "offshore4": "Un pargo de campeonato. Con el mar de fondo, este pargo colorado se robó el show y la emoción del día.",
+    "offshore5": "Pesca divertida entre amigos. Diversión asegurada con buena compañía y capturas sabrosas.",
+    "offshore6": "Marlin impresionante en altamar. Un gigante del océano en nuestras manos. ¡Una experiencia que tenés que vivir!",
+    "snorkeling1": "Nada entre peces tropicales en aguas cristalinas. Descubrí el mundo submarino cara a cara con coloridos peces rayados.",
+    "snorkeling2": "Snorkel en pareja, una aventura para compartir. Momentos mágicos bajo el sol y el mar, perfectos para vivir en pareja.",
+    "snorkeling3": "Exploración libre bajo el azul profundo. Nadar juntos en total libertad, rodeados de vida marina.",
+    "snorkeling4": "Recorrido entre corales y peces multicolores. Un paraíso submarino te espera con paisajes vibrantes y llenos de vida.",
+    "snorkeling5": "Pez globo entre corales vírgenes. Observalo de cerca en su hábitat natural mientras explorás arrecifes sanos.",
+    "snorkeling6": "Cardúmenes que te envuelven en su danza. Sumergite entre cientos de peces en una experiencia inolvidable de snorkel.",
+    "whales1": "Majestuosa ballena asomando entre olas. Un encuentro inolvidable con la naturaleza en su estado más puro.",
+    "whales2": "Salto espectacular de una ballena jorobada. Sentí la emoción de ver estos gigantes del mar en plena acción.",
+    "whales3": "Cola de ballena en despedida elegante. Un instante mágico que deja sin aliento a quienes lo presencian.",
+    "whales4": "El arte de sumergirse con gracia. Las ballenas nos regalan momentos únicos en cada avistamiento.",
+    "whales5": "Un espectáculo natural frente a tus ojos. Viví la magia del Pacífico con este salto impresionante.",
+    "whales6": "Silencio absoluto... hasta que aparece la ballena. La emoción de observar su lomo surcando el mar es indescriptible.",
+    "tortuga1": "Isla Tortuga: el paraíso frente a tus ojos. Arena blanca, palmeras y yates anclados. ¡Tu día soñado empieza aquí!",
+    "tortuga2": "Una joya escondida entre acantilados. Esta bahía de aguas turquesa te invita a relajarte y conectar con la naturaleza.",
+    "tortuga3": "Playa tranquila con vistas de postal. Disfrutá de una caminata frente al mar con un paisaje de ensueño.",
+    "tortuga4": "Un rincón virgen rodeado de palmeras. La belleza pura de Isla Tortuga, perfecta para los que buscan paz y naturaleza.",
+    "tortuga5": "Arco de piedra: maravilla natural en el mar. Una formación única que embellece aún más tu aventura en la isla.",
+    "tortuga6": "Aguas cristalinas, palmeras infinitas. El contraste perfecto entre mar esmeralda y selva tropical. ¡Vení a descubrirlo!"
+},
+ 
+"inshore": {
+  "title": "Pesca costera",
+  "text": "Disfrutá de la pesca costera en aguas tranquilas, ideal para quienes buscan una experiencia relajada pero emocionante, capturando especies como jureles, sierras y pargos cerca de la costa.",
+  "subtitle": "¿Qué incluye la pesca costera?",
+  "description1": "Equipo de pesca profesional.",
+  "description2": "Tripulación y guía experto.",
+  "description4": "Ambiente seguro y apto para toda la familia.",
+  "subtitle2": "Nuestros Planes",
+  "plan1": "Medio día",
+  "plan1_description": "Tarifa de 1 a 6 personas.",
+  "plan2": "Arrastre", 
+  "plan2_description": "¡Sumérgete en la pesca de curricán con nosotros! Experimenta la emoción de lanzar tu línea desde nuestra embarcación en movimiento y capturar peces a toda velocidad. Nuestro equipo de expertos te guiará en esta técnica especializada. Únete a nosotros y disfruta de la acción y la adrenalina de la pesca de curricán.",
+  "plan3": "Jigging",
+  "plan3_description": "¡Descubre el fascinante mundo del jigging con nosotros! Sumérgete en una emocionante forma de pesca que te desafiará y te mantendrá en constante acción. Únete a nosotros y vive la adrenalina del jigging mientras te enfrentas a poderosas especies en aguas profundas.",
+  "plan4": "Lanzado",
+  "plan4_description": "¡Ven a experimentar la emoción de pescar con nosotros! Siente la adrenalina de lanzar tu señuelo con precisión y capturar peces en aguas cercanas. Nuestro equipo de expertos te enseñará las mejores técnicas y te guiará para elegir el señuelo adecuado para cada especie. ¡Prepárate para una aventura inolvidable llena de acción y emocionantes capturas!",
+  "button_whatsapp": "Reservar en WhatsApp", 
+  "whatsappLinkPlan1": "Medio Día - Pesca Costera (1 a 6 personas)",
+  "whatsappLinkPlan2": "Pesca Costera - Plan Arrastre",
+  "whatsappLinkPlan3": "Pesca Costera - Plan Jigging",
+  "whatsappLinkPlan4": "Pesca Costera - Plan Lanzado",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=50688872280&text=Hola,%20me%20gustaría%20reservar%20el%20plan%20de%20"
+  
+},
+
+"offshore": {
+  "title": "Pesca de Altamar",
+  "text": "Experimentá la emoción de la pesca en aguas profundas de Malpaís, rodeado de paisajes espectaculares y con la oportunidad de capturar especies impresionantes como el pez vela, dorado y atún.",
+  "subtitle": "¿Qué incluye la pesca de alta mar?",
+  "description1": "Equipo de pesca profesional.",
+  "description2": "Capitán y tripulación con experiencia local.",
+  "description4": "Guía personalizado y asistencia completa.",
+  "subtitle2": "Nuestros Planes",
+  "plan1": "Pesca de Alta Mar",
+  "plan1_description": "Jornada completa (8 horas) en aguas profundas.",
+  "button_whatsapp": "Reservar en WhatsApp", 
+  "whatsappLinkPlan1": "Pesca de Alta Mar (8 horas)",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=50688872280&text=Hola,%20me%20gustaría%20reservar%20el%20plan%20de%20"
+
+},
+
+"boats": {
+  "title": "Tours en Barco",
+  "text": "Vive aventuras inolvidables explorando el océano con nuestros tours en barco. Desde avistamiento de ballenas hasta snorkeling, Isla Tortuga y viajes privados, tenemos experiencias únicas para todos los gustos.",
+  "subtitle": "¿Qué incluye el tour en barco?",
+  "description1": "Embarcaciones cómodas y seguras.",
+  "description2": " Guías expertos y tripulación profesional.",
+  "description4": "Experiencias personalizadas y familiares.",
+  "subtitle2": "Nuestros Planes",
+  "plan1": "Avistamiento de Ballenas",
+  "plan1_description": "¡Descubre el majestuoso mundo de las ballenas durante la temporada migratoria!",
+  "detail1Plan1": "1-6 Personas: $280",
+  "detail2Plan1": "6-8 Personas: $350",
+  "whatsappLinkPlan1": "Tour en Barco - Avistamiento de Ballenas (1-8 personas)",
+  "plan2": "Snorkel",
+  "plan2_description": "Explora el fascinante mundo submarino y descubre la vida marina en su hábitat natural.",
+  "detail1Plan2": "3h: $280",
+  "detail2Plan2": "4h: $350",
+  "whatsappLinkPlan2": "Tour en Barco - Snorkel (3h o 4h)",
+  "plan3": "Isla Tortuga",
+  "plan3_description": "Vive un día completo en esta joya del Pacífico, con playas de arena blanca y aguas cristalinas.",
+  "detail1Plan3": "Día completo",
+  "detail2Plan3": "$900",
+  "whatsappLinkPlan3": "Tour en Barco - Isla Tortuga (Día completo)",
+  "plan4": "Viajes Privados (Sámara y Jacó)",
+  "plan4_description": "Disfruta de experiencias exclusivas en playas paradisíacas, naturaleza exuberante y aventuras únicas.",
+  "whatsappLinkPlan4": "Tour en Barco - Viajes Privados a Sámara y Jacó",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=50688872280&text=Hola,%20me%20gustaría%20reservar%20el%20tour%20en%20barco%20de%20",
+  "button_whatsapp": "Reservar en WhatsApp"
+},
+
+"contact": {
+  "title": "Contáctenos",
+  "text": "¿Tenés alguna consulta o querés reservar? Completá el formulario y te responderemos lo antes posible.",
+  "name": "Nombre",
+  "text_name": "Tu nombre",
+  "email": "Correo electrónico",
+  "text_email": "ejemplo@correo.com",
+  "message": "Mensaje",
+  "text_message": "Escribí tu mensaje aquí...",
+  "send": "Enviar mensaje",
+  "message_error": "Todos los campos son obligatorios.",
+  "email_error": "El correo electrónico no es válido.",
+  "send_error": "Error al enviar el mensaje. Por favor, intentá nuevamente.",
+  "send_success": "¡Formulario enviado correctamente!",
+  "server_error": "Error del servidor. Por favor, intentá nuevamente más tarde."
+
+},
+
+"notfound": {
+  "title": "¡Oops! Página no encontrada",
+  "description": "La página que estás buscando no existe o fue movida. Por favor, revisa el enlace o vuelve al inicio.",
+  "button_home": "Volver al inicio",
+  "button_contact": "Contáctanos"
+},
+
+  "footer": {
+  "rights_reserved": "Todos los derechos reservados.",
+  "privacy_policy": "Política de privacidad",
+  "developed_by": "Desarrollado por",
+  "contact": "Contáctanos",
+  "info": "Información",
+  "follow_us": "Síguenos en nuestras redes sociales",
+  "schedule": "Horario de atención: Lunes a Viernes de 8:00 a.m. a 5:00 p.m."
+
+},
+"seo": {
+  "home_title": "Cabo Tours - Pesca y Aventuras - Malpaís, Costa Rica",
+  "home_desc": "Disfruta pesca deportiva, tours en barco y snorkeling en Malpaís, Costa Rica.",
+  "gallery_title": "Galería de Cabo Tours",
+  "gallery_desc": "Mira fotos reales de nuestras aventuras de pesca y tours.",
+  "contact_title": "Contáctanos - Cabo Tours",
+  "contact_desc": "Reserva tu próxima aventura de pesca o tour marítimo en Cabo Tours.",
+  "offshore_title": "Pesca de Altamar en Cabo Tours",
+  "offshore_desc": "Vive la pesca en aguas profundas con Cabo Tours.",
+  "inshore_title": "Pesca Costera en Cabo Tours",
+  "inshore_desc": "Explora la pesca costera en Malpaís con nuestro equipo profesional.",
+  "tours_title": "Tours en Barco - avistamiento de Ballenas, Snorkeling e Isla Tortuga",
+  "tours_desc": "Descubre avistamiento de ballenas, Isla Tortuga y snorkeling en Costa Rica."
+}
+
+}
+
